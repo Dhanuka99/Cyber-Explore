@@ -35,7 +35,7 @@ You can contribute to the project on github. Here's how you can do it.
 
 ## 🌱 Contributors </br>
 
-<a href="https://github.com/Dhanuka99/CS-Past-Papers/graphs/contributors">
+<a href="https://github.com/Dhanuka99/Cyber-Explore/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Dhanuka99/Cyber-Explore.git" />
 </a>
 </br>
