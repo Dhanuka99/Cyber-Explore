@@ -11,7 +11,7 @@ You can contribute to the project on github. Here's how you can do it.
 1. Fork the repository
 2. Clone it on your local machine
   ```
-    git clone https://github.com/<YOUR_USERNAME>/CS-Past-Papers.git
+    git clone https://github.com/<YOUR_USERNAME>/Cyber-Explore.git
   ```
 3. Create a branch which includes your name (i.e. `Nufri` or `nufri-feature-dev`) and checkout. (_See the guide for the more details [Link](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)_)
   ```
@@ -35,8 +35,8 @@ You can contribute to the project on github. Here's how you can do it.
 
 ## 🌱 Contributors </br>
 
-<a href="https://github.com/Dhanuka99/CS-Past-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Dhanuka99/CS-Past-Papers" />
+<a href="https://github.com/Dhanuka99/Cyber-Explore/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Dhanuka99/Cyber-Explore.git" />
 </a>
 </br>
 
